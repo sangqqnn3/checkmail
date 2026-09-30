@@ -19,6 +19,20 @@
     "IsActive": true,
     "ActivatedDate": "2024-01-01 00:00:00",
     "ExpiryDate": "2029-01-01 00:00:00"
+  },
+    {
+    "HardwareId": "NDLaEXRDiNhN0ZWz",
+    "LicenseKey": "GENERATED_LICENSE_KEY",
+    "IsActive": true,
+    "ActivatedDate": "2024-01-01 00:00:00",
+    "ExpiryDate": "2029-01-01 00:00:00"
+  },
+    {
+    "HardwareId": "VboqIkuUbYVRDZT3",
+    "LicenseKey": "GENERATED_LICENSE_KEY",
+    "IsActive": true,
+    "ActivatedDate": "2024-01-01 00:00:00",
+    "ExpiryDate": "2029-01-01 00:00:00"
   }
 
 ]
